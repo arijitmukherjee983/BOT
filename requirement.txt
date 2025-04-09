@@ -8,6 +8,7 @@ langchain_ollama
 streamlit
 langchain
 langchain-core
+langchain_core
 langchain-community
 langchain-openai
 langchain-ollama
